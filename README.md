@@ -13,6 +13,6 @@ INCLUDING AND RUNNING THE TESTS:
 To include the HttpGetRequestTests.cs and SheetGeneratorTests.cs
 Go into the HttpGetRequest.cs code and right click, select 'Create Unit Tests' and click OK.
 Once created, remove the code and copy and paste the code from the HttpGetRequestTests.cs.  
-Then go into SheetGenerator.cs and repeat the process above, copying the code from the SheetGeneratorTests.CS
+Then go into SheetGenerator.cs and repeat the process above, copying the code from the SheetGeneratorTests.cs
 
-IMPORTANT- When running the application, please ensure that you are connected to the internet
+IMPORTANT- When running the application, please ensure that you are connected to the internet.
