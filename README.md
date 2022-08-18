@@ -6,12 +6,12 @@ Information will be provided on the number of created, deleted and updated rows 
 
 RUNNING THE PROJECT:
 
-Go to code -> 'Open with Visual Studio'  This will clone the items into a folder on your local directory
-Go to the local folder and go into Crudops_Console_Application and open 'Crudops_Console_ApplicationTests.csproj' with Visual Studio 2022
+Go to code -> 'Open with Visual Studio'  This will clone the items into a folder on your local directory.
+Go to the local folder and go into Crudops_Console_Application and open 'Crudops_Console_ApplicationTests.csproj' with Visual Studio 2022.
 
 INCLUDING AND RUNNING THE TESTS:
 To include the HttpGetRequestTests.cs and SheetGeneratorTests.cs
-Go into the HttpGetRequest.cs code and right click, select 'Create Unit Tests' and click OK.
+go into the HttpGetRequest.cs code and right click, select 'Create Unit Tests' and click OK.
 Once created, remove the code and copy and paste the code from the HttpGetRequestTests.cs.  
 Then go into SheetGenerator.cs and repeat the process above, copying the code from the SheetGeneratorTests.cs
 
